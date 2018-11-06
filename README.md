@@ -2,6 +2,8 @@
 
 ## Projet "Fouille de textes" M2 ATAL 2018-2019
 
+#### GRANJON Thomas, DURAN Alizée, TABOT Alexandre
+
 EGC est une conférence francophone sur l'Extraction et Gestion de Connaissances (équivalent français de knowledge discovery and data mining).
 
 Objectif
