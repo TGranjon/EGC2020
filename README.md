@@ -1,6 +1,7 @@
 # EGC2020
 
 ## Projet "Fouille de textes" M2 ATAL 2018-2019
+## Le Mans Université
 
 #### GRANJON Thomas, DURAN Alizée, TABOT Alexandre
 
