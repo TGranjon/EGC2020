@@ -17,3 +17,5 @@ Tous les éléments du Défi-EGC sont disponibles sur la page dédiée du site d
 __Données__
 
 Nous mettons à disposition les données sur http://www.egc.asso.fr/ : http://www.egc.asso.fr/wp-content/uploads/export_articles_EGC_2004_2018.csv
+
+### Projet temporairement mis en pause.
